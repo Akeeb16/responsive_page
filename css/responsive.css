@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .burger {
+    top: 2%;
+    right: 1rem;
+    display: block;
+  }
+  .right-nav {
+    display: none;
+  }
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
+  #main-header{
+      padding: 2rem 0;
+  }
+  #main-header div:last-child {
+    display: none;
+  }
+}
